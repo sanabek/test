@@ -1,0 +1,6 @@
+body {background: #f5f5f5;margin: 0 auto;padding: 0;}
+.main {width: 1170px;padding: 0 15px 0 15px; margin: auto;}
+.main header {margin-top: 80px;height: 840px;}
+.head {display: block; height: 55px; width: auto;}
+.head .logo {display: block; width: 140px; height: 55px; background: url(img/logo.png) center no-repeat;float: left;}
+.head .menu {display: block; float: right;}
